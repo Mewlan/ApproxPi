@@ -1,8 +1,8 @@
 #include "ViewController.h"
 
-int main(int argc, char const *argv[])
-{
-	approxPiView(approxPiCtrl(approxPiModel()));
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
+int main(int argc, char *argv[]) {
+	approxPiView(approxPiCtrl(approxPiModel()));
 	return 0;
 }

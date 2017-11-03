@@ -34,7 +34,7 @@ void approxPiView(APM *apm);
 /***Controller***/
 
 /*APC*/
-APM * apporxPiCtrl(APM *apm);
+APM * approxPiCtrl(APM *apm);
 /*endAPC*/
 
 
